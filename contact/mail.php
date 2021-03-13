@@ -110,7 +110,7 @@ $body_message_support = '
 ';
 
 // Message envoyer au support
-$to = 'romaric.rapine25@gmail.com';
+$to = 'contact@romaric-rapine.fr';
 $email_subject = "$subject";
 $email_body = "$body_message_support";
 $headers[] = 'MIME-Version: 1.0';
