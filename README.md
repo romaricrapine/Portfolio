@@ -1,8 +1,11 @@
-# Mon Portfolio V3
+## Mon Portfolio : 
 
-> 
+> http://romaric-rapine.fr
 
+## Pour voir mes autres projets :
 
-## Pour voir mes autres projets : 
+> http://romaric-rapine.fr/portfolio/index.html
 
-> https://romaricr.promo-47.codeur.online/
+## Pour voir me contacter :
+
+> http://romaric-rapine.fr/contact/index.html
